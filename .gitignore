@@ -1,0 +1,24 @@
+# Datasets and raw files
+data_raw/
+data/
+nstdb/
+data_noise.pickle
+
+# Model weights
+best_gru_denoiser_360Hz
+
+# Generated outputs
+# results/
+# figures/
+plot_results.py
+find_noise_indices.py
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+README.md
+
+# Ignore large output files
+results/**/*.txt*
