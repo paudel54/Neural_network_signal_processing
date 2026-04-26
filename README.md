@@ -60,5 +60,3 @@ For the development of the ECG noise removal model, we created a dataset with no
 * `gru_denoiser.py` and `utils_denoiser.py`: PyTorch model implementation.
 * `paper_evaluation.py` and `paper_figures_revised.py`: Master scripts to generate all publication metrics and figures.
 
-## Model Checkpoint
-* `best_gru_denoiser_360Hz`: Pre-trained weights for the biGRU model ready for evaluation on 360Hz ECG signals.
