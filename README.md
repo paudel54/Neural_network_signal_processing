@@ -61,24 +61,12 @@ For the development of the ECG noise removal model, we created a dataset with no
 * `evaluation.py` and `generate_figures.py`: Generates evaluation metrics and figures.
 
 
-# REFERENCES
-[1] U. Satija, B. Ramkumar, and M. S. Manikandan, “A review of signal
-processing techniques for electrocardiogram signal quality assessment,”
-IEEE Reviews in Biomedical Engineering, vol. 11, pp. 36–52, 2018.
-[2] H. Limaye and V. Deshmukh, “Ecg noise sources and various noise
-removal techniques: A survey,” International Journal of Application or
-Innovation in Engineering & Management, vol. 5, no. 2, pp. 86–92, 2016.
-[3] S. Chatterjee, R. S. Thakur, R. N. Yadav, L. Gupta, and D. K. Raghu-
-vanshi, “Review of noise removal techniques in ecg signals,” IET Signal
-Processing, vol. 14, no. 9, pp. 569–590, 2020.
-[4] H.-T. Chiang, Y.-Y. Hsieh, S.-W. Fu, K.-H. Hung, Y. Tsao, and S.-Y.
-Chien, “Noise reduction in ecg signals using fully convolutional denoising
-autoencoders,” Ieee Access, vol. 7, pp. 60 806–60 813, 2019.
-[5] K. Antczak, “Deep recurrent neural networks for ecg signal denoising,”
-arXiv preprint arXiv:1807.11551, 2018.
-[6] P. Wagner, N. Strodthoff, R.-D. Bousseljot, D. Kreiseler, F. I. Lunze,
-W. Samek, and T. Schaeffter, “Ptb-xl, a large publicly available electro-
-cardiography dataset,” Scientific data, vol. 7, no. 1, p. 154, 2020.
-[7] G. B. Moody, W. Muldrow, and R. G. Mark, “A noise stress test for
-arrhythmia detectors,” Computers in cardiology, vol. 11, no. 3, pp. 381–
-384, 1984.
+## References
+
+1. U. Satija, B. Ramkumar, and M. S. Manikandan, "A review of signal processing techniques for electrocardiogram signal quality assessment," *IEEE Reviews in Biomedical Engineering*, vol. 11, pp. 36–52, 2018.
+2. H. Limaye and V. Deshmukh, "Ecg noise sources and various noise removal techniques: A survey," *International Journal of Application or Innovation in Engineering & Management*, vol. 5, no. 2, pp. 86–92, 2016.
+3. S. Chatterjee, R. S. Thakur, R. N. Yadav, L. Gupta, and D. K. Raghuvanshi, "Review of noise removal techniques in ecg signals," *IET Signal Processing*, vol. 14, no. 9, pp. 569–590, 2020.
+4. H.-T. Chiang, Y.-Y. Hsieh, S.-W. Fu, K.-H. Hung, Y. Tsao, and S.-Y. Chien, "Noise reduction in ecg signals using fully convolutional denoising autoencoders," *Ieee Access*, vol. 7, pp. 60 806–60 813, 2019.
+5. K. Antczak, "Deep recurrent neural networks for ecg signal denoising," *arXiv preprint arXiv:1807.11551*, 2018.
+6. P. Wagner, N. Strodthoff, R.-D. Bousseljot, D. Kreiseler, F. I. Lunze, W. Samek, and T. Schaeffter, "Ptb-xl, a large publicly available electrocardiography dataset," *Scientific data*, vol. 7, no. 1, p. 154, 2020.
+7. G. B. Moody, W. Muldrow, and R. G. Mark, "A noise stress test for arrhythmia detectors," *Computers in cardiology*, vol. 11, no. 3, pp. 381–384, 1984.
