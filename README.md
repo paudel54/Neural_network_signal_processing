@@ -58,5 +58,5 @@ For the development of the ECG noise removal model, we created a dataset with no
   * `2_train_val_test_split.py`: Split and preprocess the clean ground truth
   * `3_create_noisy_data2_360hz.py`: Synthetically inject noise
 * `gru_denoiser.py` and `utils_denoiser.py`: PyTorch model implementation.
-* `paper_evaluation.py` and `paper_figures_revised.py`: Master scripts to generate all publication metrics and figures.
+* `evaluation.py` and `generate_figures.py`: Master scripts to generate all publication metrics and figures.
 
